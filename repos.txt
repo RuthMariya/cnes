@@ -1,5 +1,9 @@
-aiops-auth-service-app-java
-abc
-notpresent
-dc2-aiops-coreai-custom-translation-app-python
-ddd
+animator-core,animator-core
+slack-bot-animator,slack-bot-animator
+animator-slack-parser, 
+animator-slack-wrapper,animator-slack-wrapper
+aiops-insights-bff-app-nodejs,bb
+aiops-ui-app-nodejs,aiops-ui-app-nodejs
+aiops-insights-data-collector-app-python,aiops-insights-data-collector-app-python
+aiops-insights-svc-app-java,cc
+aiops-coreai-api-ticket-triaging-app-python,aiops-coreai-api-ticket-triaging-app-python
