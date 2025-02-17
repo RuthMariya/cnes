@@ -1,6 +1,6 @@
 animator-core,animator-core
 slack-bot-animator,slack-bot-animator
-animator-slack-parser, 
+animator-slack-parser,    main
 animator-slack-wrapper,animator-slack-wrapper
 aiops-insights-bff-app-nodejs,bb
 aiops-ui-app-nodejs,aiops-ui-app-nodejs
