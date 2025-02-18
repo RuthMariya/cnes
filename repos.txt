@@ -6,4 +6,6 @@ Spring-Petclinic,dec6-upgrade-2024
 aiops-ui-app-nodejs,aiops-ui-app-nodejs
 aiops-insights-data-collector-app-python,aiops-insights-data-collector-app-python
 aiops-insights-svc-app-java,cc
+aiops-auth-service-app-java,main
+aiops-chatops-app-nodejs,main
 aiops-coreai-api-ticket-triaging-app-python,aiops-coreai-api-ticket-triaging-app-python
