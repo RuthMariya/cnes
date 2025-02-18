@@ -2,7 +2,7 @@ animator-core,animator-core
 slack-bot-animator,slack-bot-animator
 animator-slack-parser,    main
 animator-slack-wrapper,animator-slack-wrapper
-aiops-insights-bff-app-nodejs,bb
+Spring-Petclinic,dec6-upgrade-2024
 aiops-ui-app-nodejs,aiops-ui-app-nodejs
 aiops-insights-data-collector-app-python,aiops-insights-data-collector-app-python
 aiops-insights-svc-app-java,cc
